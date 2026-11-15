@@ -25,6 +25,12 @@
               </a>
               <span class="tabular-icon">|</span>
             <% } %>
+            <% if (publication.doi) { %>
+              <a href="https://doi.org/<%- publication.doi %>">
+                <span class="fa fa-link tabular-icon" title="doi: <%- publication.doi %>"></span>
+              </a>
+              <span class="tabular-icon">|</span>
+            <% } %>
             <% if (publication.bib) { %>
               <a href="<%- publication.bib %>">
                 <span class="fa fa-book tabular-icon" title="bib: <%- publication.bib %>"></span>

@@ -66,7 +66,7 @@
   venue: Audiovisual Symposium
   year: 2024
   type: Abstract
-- title: "Birdsongification: Contexual and Complementary Sonification for Biology Visualization"
+- title: "Birdsongification: Contextual and Complementary Sonification for Biology Visualization"
   authors:
     - Elmquist, E.
     - Ejdbo, M.
@@ -93,7 +93,7 @@
   venue: Abstracts at American Geophysical Union, Fall Meeting
   year: 2023
   type: Abstract
-- title: "ExoplanetExplorer: Contexual Visualization of Exoplanet Systems"
+- title: "ExoplanetExplorer: Contextual Visualization of Exoplanet Systems"
   authors:
     - Broman, E.
     - Faherty, J.
@@ -264,11 +264,11 @@
   authors:
     - Ynnerman, A.
     - Ljung, P.
-    - Bock. A.
+    - Bock, A.
   venue: Foundations of Data Visualization
   year: 2020
   type: chapter
-  doi: https://doi.org/10.1007/978-3-030-34444-3_19
+  doi: 10.1007/978-3-030-34444-3_19
   bib: papers/book20-ynnerman-broad-audiences.bib
   web: https://link.springer.com/chapter/10.1007/978-3-030-34444-3_19
 - title: "OpenSpace: A System for Astrographics"
@@ -324,11 +324,11 @@
     - Bock, A.
     - Hedberg, J.
     - Rosen, D.
-    - Emmart, C
+    - Emmart, C.
   venue: ASTRO 2020 White Paper
   year: 2019
   type: Paper
-  doi: 1907.05383
+  doi: 10.48550/arXiv.1907.05383
   pdf: https://arxiv.org/ftp/arxiv/papers/1907/1907.05383.pdf
   bib: papers/wp19-faherty-ideas.bib
 - title: Globe Browsing in OpenSpace
@@ -505,7 +505,7 @@
     - Pembroke, A.
     - Mays, M.L.
     - Rastaetter, L.
-    - Ynnerman, A
+    - Ynnerman, A.
     - Ropinski, T.
   venue: IEEE Vis
   year: 2015
@@ -577,7 +577,7 @@
     - Mays, M.L.
     - Rastaetter, L.
     - Ynnerman, A.
-    - Ropinksi, T.
+    - Ropinski, T.
   venue: IEEE Vis Poster Session
   year: 2014
   type: Poster
@@ -604,7 +604,7 @@
   authors:
     - Bock, A.
     - Kleiner, A.
-    - Ropinksi, T.
+    - Ropinski, T.
   venue: Excellence Centre at Linköping-Lund in Information Technology
   year: 2013
   type: Poster
