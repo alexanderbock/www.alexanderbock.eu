@@ -77,9 +77,6 @@ This application was an iOS application on the AppStore used to replace a physic
 Objective-C
 
 
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/jquery.dropotron.min.js"></script>
-
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="assets/project_hermes.js" type="text/javascript" charset="utf-8"></script>
 <script src="assets/project_icarus.js" type="text/javascript" charset="utf-8"></script>
