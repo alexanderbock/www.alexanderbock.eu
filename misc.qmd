@@ -69,99 +69,99 @@ This is a list of various tools that I use more-or-less regularly that help with
 ## Podcasts
 Listening to podcasts has been another staple of entertainment in my life for way over a decade at this point and it was especially useful in New York to pass the time on those pesky subway rides.  Some of my recommendations of podcasts are:
 
-  - [https://www.bbc.co.uk/programmes/p04b1g3c](_50 Things That Made the Modern Economy_): A BBC podcast where the title gives everything away.  They cover the 50 biggest inventions that shaped the world around us into what it is today.
-  - [https://99percentinvisible.org](_99 Percent Invisible_): Roman Mars explaining the design aspects of things that are around us daily but to which we normally don't pay any attention.
+  - [_50 Things That Made the Modern Economy_](https://www.bbc.co.uk/programmes/p04b1g3c): A BBC podcast where the title gives everything away.  They cover the 50 biggest inventions that shaped the world around us into what it is today.
+  - [_99 Percent Invisible_](https://99percentinvisible.org): Roman Mars explaining the design aspects of things that are around us daily but to which we normally don't pay any attention.
   - _Captains Speaking_: Two professional 737 pilots discuss all things aviation. A great source of insider gossip and learning things you never knew you wanted to know.
-  - [https://cppcast.com/](_CppCast_): A for C++ developers.  Discussion topics range from new and interesting libraries over language features all the way to C++ standard discussions.
-  - [https://freakonomics.com/](_Freakonomics Radio_): One of the two economics-focussed podcasts on my list.  It can be quite enlightening to listen how other people reason about the world and learn interesting facts in the process.
-  - [https://www.nodumbquestions.fm](_No Dumb Questions_): One more entry from the two-dudes-talking genre of podcasts.  Destin Sandlin (Smarter Every Day) and Matt Whitman (10 Minute Bible Hour) discussing arbitrary topics.
-  - [https://www.npr.org/sections/money](_Planet Money_): Similar to Freakonomics Radio, an economics-focussed podcast about explaining everyday events and items through the looking glass of economics.
-  - [https://crooked.com/podcast-series/pod-save-america/](_Pod Save America_): A podcast by four former aides to President Obama, Jon Favreau, Dan Pfeiffer, Jon Lovett, and Tommy Vietor, that discuss the current news and provide their side of the story.
-  - [https://crooked.com/podcast-series/pod-save-the-world/](_Pod Save the World_): A spin-off podcast from _Pod Save America_ about world politics.
-  - [https://www.unmade.fm/](_Unmade_): Another two-dudes-talking podcast by Tim Hein and Brady Haran generally about podcast ideas that never see the light of day.
-  - [https://trumpconlaw.com](What Trump Can Teach Us About Con Law / What Roman Mars can Learn about Con Law): A second podcast by Roman Mars where he and Professor Elizabeth Joh discuss the current political news through the looking glass of Constitutional Law.
+  - [_CppCast_](https://cppcast.com/): A for C++ developers.  Discussion topics range from new and interesting libraries over language features all the way to C++ standard discussions.
+  - [_Freakonomics Radio_](https://freakonomics.com/): One of the two economics-focussed podcasts on my list.  It can be quite enlightening to listen how other people reason about the world and learn interesting facts in the process.
+  - [_No Dumb Questions_](https://www.nodumbquestions.fm): One more entry from the two-dudes-talking genre of podcasts.  Destin Sandlin (Smarter Every Day) and Matt Whitman (10 Minute Bible Hour) discussing arbitrary topics.
+  - [_Planet Money_](https://www.npr.org/sections/money): Similar to Freakonomics Radio, an economics-focussed podcast about explaining everyday events and items through the looking glass of economics.
+  - [_Pod Save America_](https://crooked.com/podcast-series/pod-save-america/): A podcast by four former aides to President Obama, Jon Favreau, Dan Pfeiffer, Jon Lovett, and Tommy Vietor, that discuss the current news and provide their side of the story.
+  - [_Pod Save the World_](https://crooked.com/podcast-series/pod-save-the-world/): A spin-off podcast from _Pod Save America_ about world politics.
+  - [_Unmade_](https://www.unmade.fm/): Another two-dudes-talking podcast by Tim Hein and Brady Haran generally about podcast ideas that never see the light of day.
+  - [What Trump Can Teach Us About Con Law / What Roman Mars can Learn about Con Law](https://trumpconlaw.com): A second podcast by Roman Mars where he and Professor Elizabeth Joh discuss the current political news through the looking glass of Constitutional Law.
 
 ### Previous
-  - [https://www.relay.fm/cortex](_Cortex_): CGP Grey and Myke Hurley's two-dudes-talking podcast about productivity and their careers.  Very useful to listen to other people talking about their self-employment careers.
-  - [https://www.thejimquisition.com/podquisition](_Podquisition_): Jim Sterling's (The Jimquisition), Laura K Dale's, and Gavin Dunne's (Miracle of Sound) podcast that is, mostly, about video games and to keep up to date on video game news.
-  - [https://www.hellointernet.fm](_Hello Internet_): Brady Haran and CGP Grey's two-dudes-talking podcast.  This is also about any arbitrary topic, but since both hosts are involved in making Youtube videos, that's one reoccuring topic.
+  - [_Cortex_](https://www.relay.fm/cortex): CGP Grey and Myke Hurley's two-dudes-talking podcast about productivity and their careers.  Very useful to listen to other people talking about their self-employment careers.
+  - [_Podquisition_](https://www.thejimquisition.com/podquisition): Jim Sterling's (The Jimquisition), Laura K Dale's, and Gavin Dunne's (Miracle of Sound) podcast that is, mostly, about video games and to keep up to date on video game news.
+  - [_Hello Internet_](https://www.hellointernet.fm): Brady Haran and CGP Grey's two-dudes-talking podcast.  This is also about any arbitrary topic, but since both hosts are involved in making Youtube videos, that's one reoccuring topic.
 
 
 
 ## YouTube Channels
 These are some of the Youtube channels that I'm following.  Judging by my growing list of "Watch later" videos, I'm clearly subscribed to more channels that I have the time to watch.
 
-  - [https://www.youtube.com/@3blue1brown](_3Blue1Brown_): An educational channel about a lot of mathematical topics that are beautifully animated.
-  - [https://www.youtube.com/@74gear](_74 Gear_): A channel about piloting-related topics from the point of view of a professional 747 pilot.
-  - [https://www.youtube.com/@XboxAhoy](_Ahoy_): Deep dive videos into individual video games with an extended length and a sporatic upload schedule.
-  - [https://www.youtube.com/@AlecSteele](_AlecSteele_): A channel about blacksmithing and smithing-related experiments.
-  - [https://www.youtube.com/@AllThingsSecured](_AllThingsSecured_): A channel discussing the in's and out's of everyday IT security related questions.
-  - [https://www.youtube.com/@BenEater](_BenEater_): A channel going into great detail about close-to-the-metal hardware programming, including building a computer on a breadboard.
-  - [https://www.youtube.com/@CGPGrey](_CGP Grey_): An educational channel that occasionally releases shorter videos explaining all sorts of topics.
-  - [https://www.youtube.com/@Computerphile](_Computerphile_): An educational channel that is focussed on the hardware and software side of computer science.
-  - [https://www.youtube.com/@CppCon](_CppCon_): On this channel, all recorded talks of the CppCon, an annual C++ focussed conference are released.
-  - [https://www.youtube.com/@crashcourse](_CrashCourse_): An educational channel with many sub-channels that cover everything from world history, sociology, to chemistry.
-  - [https://www.youtube.com/@DeviantOllam](_Deviant Ollam_): A variety of topics from self-defense, IT security, and travelling.
-  - [https://www.youtube.com/@DoctorMike](_Doctor Mike_): A channel discussing medical research, their findings, and applicability to everyday life.
-  - [https://www.youtube.com/@ElectroBOOM](_ElectroBOOM_): An electronis channel, usually with some minor explosions being involved, while teaching about circuitry.
-  - [https://www.youtube.com/@EverydayAstronaut](_Everyday Astronaut_): An eduational channel probably most known for its in-depth series on all kinds of rocket engines.
-  - [https://www.youtube.com/@halfasinteresting](_Half As Interesting_): An educational channel with short-form videos discussing more obscure topics that you never knew you wanted to know about. A spin-off from Wendover Productions.
-  - [https://www.youtube.com/@healthcaretriage](_Healthcare Triage_): An educational channel about the news, grand ideas of healthcare, and also providing information about other medical topics.
-  - [https://www.youtube.com/makeeverythingtv](_How to Make Everything_): Recreating civilization with one technology at a time.
-  - [https://www.youtube.com/@Intelligence-Squared](_IntelligenceSquared_): On this channel the live Intelligence Squared debates are broadcast and cover a wide array of topics.
-  - [https://www.youtube.com/@JacksonCrawford](_Jackson Crawford_): An educational channel about Old Norse, the Eddas, and other long-dead languages and texts.
-  - [https://www.youtube.com/@jetlagthegame](_Jet Lag_): A game show where the contestents have to gain points while travelling and fulfilling missions. A spin-off from Wendover Productions.
-  - [https://www.youtube.com/@jblow888](_Jonathan Blow_): The developer of Braid and The Witness talking mostly about his project of developing a new programming language for his next game.
-  - [https://www.youtube.com/@johnnyharris](_Johnny Harris_): A journalistic channel withe sporatic updates of long-form documentaries that are almost always interseting about a topic you never knew you wanted to know about.
-  - [https://www.youtube.com/@kklein](_KKlein_): An educational channel about the fun of linguistics.
-  - [https://www.youtube.com/@kurzgesagt](_Kurzgesagt_): An educational channel that covers a wide array of grand-theme topics in quite substantial detail and with high production value.
-  - [https://www.youtube.com/@LegalEagle](_Legal Eagle_): An educational channel discussing current legal topics, the supreme count, and other interesting topics.
-  - [https://www.youtube.com/@LowLevelTV](_Low Level_): IT security discussing zero-day exploits, and going into moderate details about them
-  - [https://www.youtube.com/@mattandtom](_Matt and Tom_): A shorter variant of the two-dudes-talking podcast but as a video, more often than not discussing events on Tom Scott's main channel.
-  - [https://www.youtube.com/@MentourPilot](_Mentour Pilot_): An educational channel about aviation done by a commercial pilot. Most well known for its very detailed accident and incident analyses.
-  - [https://www.youtube.com/@MentourNow](_Mentour Now_): A news-y channel about aviation, covering events that are happening on a reoccuring basis. A spin-off from the Mentour Pilot channel.
-  - [https://www.youtube.com/@MinutePhysics](_minutephysics_): A series of short, hand-drawn and animated stick figures that explain a large variety of physical phenomena.
-  - [https://www.youtube.com/@miracleofsound](_miracleofsound_): A music channel by Gavin Dunne where he releases all of his video game-based music soundtracks.
-  - [https://www.youtube.com/@numberphile](_Numberphile_): One of the Brady Haran channels covering mathematical topics of all kind by almost exclusively talking to scientists in the field.
-  - [https://www.youtube.com/@ObjectivityVideos](_Objectivity_): Another Brady Haran channel exploring the archives of the Royal Society and discussing its history and discoveries.
-  - [https://www.youtube.com/@pbsspacetime](_PBS Space Time_): An educational channel that covers mostly grand-scale astrophyiscal topics.
-  - [https://www.youtube.com/@periodicvideos](_Periodic Videos_): Yet another Brady Haran channel that is dealing with chemistry.  Has at least one video on every element on the periodic table.
-  - [https://www.youtube.com/@PracticalEngineeringChannel](_Practical Engineering_): An educational channel going into the details of engineering challenges, often strutural or electrical engineering.
-  - [https://www.youtube.com/@premodernist_history](_Premodernist_): An educational channel discussing historical topics is great detail.
-  - [https://www.youtube.com/@primitivetechnology9550](_Primitive Technology_): Just a dude in Australia that is trying out to recreate technology from scratch.
-  - [https://www.youtube.com/@RealEngineering](_Real Engineering_): An educational channel that explores different engineering focussed topics.
-  - [https://www.youtube.com/@scottmanley](_Scott Manley_): On this channel, Scott mostly plays and explains Kerbal Space Program.  It is the best resource for every new player to learn about the basics of the game.
-  - [https://www.youtube.com/@sixtysymbols](_Sixty Symbols_): Another Brady Haran channel mostly focussed on all kinds of physics-oriented topics.
-  - [https://www.youtube.com/@smartereveryday](_SmarterEveryDay_): An educational channel that covers a large variety of topics, primarily interested in surprising and unexpected experiences.
-  - [https://www.youtube.com/@TechnologyConnections](_Technology Connections_): An educational channel about all things technological, from music, video, computers, pinball machines, and anything else that is in the technological sphere.
-  - [https://www.youtube.com/@The8BitGuy](_The 8 Bit Guy_): A channel primarily focussed on programming an 8088 chip and what interesting programs and games can be made for it today.
-  - [https://www.youtube.com/@theslowmoguys](_The Slow Mo Guys_): A channel centered around slow motion cameras and showing the world at really slow speeds and present what cannot be seen.
-  - [https://www.youtube.com/@TomScottGo](_Tom Scott_): An educational channel that is these days primarily focussed on travelling to interesting locations and explaining the engineering or science performed there.
-  - [https://www.youtube.com/@TheGreatWar](_The Great War_): An educational channel that is covering the First World War by following the events that happen every week 100 years ago.
-  - [https://www.youtube.com/@UsefulCharts](_Useful Charts_): An educational channel covering a wide variety of topics, including language and history, exclusively with the help of charts.
-  - [https://www.youtube.com/@Vice](_VICE_): A news channel that is covering current-ish events in the worlds in varying depth ranging from 2 minute to 2 hour pieces.
-  - [https://www.youtube.com/@AmyShiraTeitel](_Vintage Space_): Amy Shira Teitel's channel that explains the history of early space exploration.
-  - [https://www.youtube.com/@Vox](_Vox_): Another journalistic channel that covers a large varierty of current events.
-  - [https://www.youtube.com/@Wendoverproductions](_Wendover Productions_): An educational channel that has documentary-stye videos about a variety of topics, often transporation or bricks.
+  - [_3Blue1Brown_](https://www.youtube.com/@3blue1brown): An educational channel about a lot of mathematical topics that are beautifully animated.
+  - [_74 Gear_](https://www.youtube.com/@74gear): A channel about piloting-related topics from the point of view of a professional 747 pilot.
+  - [_Ahoy_](https://www.youtube.com/@XboxAhoy): Deep dive videos into individual video games with an extended length and a sporatic upload schedule.
+  - [_AlecSteele_](https://www.youtube.com/@AlecSteele): A channel about blacksmithing and smithing-related experiments.
+  - [_AllThingsSecured_](https://www.youtube.com/@AllThingsSecured): A channel discussing the in's and out's of everyday IT security related questions.
+  - [_BenEater_](https://www.youtube.com/@BenEater): A channel going into great detail about close-to-the-metal hardware programming, including building a computer on a breadboard.
+  - [_CGP Grey_](https://www.youtube.com/@CGPGrey): An educational channel that occasionally releases shorter videos explaining all sorts of topics.
+  - [_Computerphile_](https://www.youtube.com/@Computerphile): An educational channel that is focussed on the hardware and software side of computer science.
+  - [_CppCon_](https://www.youtube.com/@CppCon): On this channel, all recorded talks of the CppCon, an annual C++ focussed conference are released.
+  - [_CrashCourse_](https://www.youtube.com/@crashcourse): An educational channel with many sub-channels that cover everything from world history, sociology, to chemistry.
+  - [_Deviant Ollam_](https://www.youtube.com/@DeviantOllam): A variety of topics from self-defense, IT security, and travelling.
+  - [_Doctor Mike_](https://www.youtube.com/@DoctorMike): A channel discussing medical research, their findings, and applicability to everyday life.
+  - [_ElectroBOOM_](https://www.youtube.com/@ElectroBOOM): An electronis channel, usually with some minor explosions being involved, while teaching about circuitry.
+  - [_Everyday Astronaut_](https://www.youtube.com/@EverydayAstronaut): An eduational channel probably most known for its in-depth series on all kinds of rocket engines.
+  - [_Half As Interesting_](https://www.youtube.com/@halfasinteresting): An educational channel with short-form videos discussing more obscure topics that you never knew you wanted to know about. A spin-off from Wendover Productions.
+  - [_Healthcare Triage_](https://www.youtube.com/@healthcaretriage): An educational channel about the news, grand ideas of healthcare, and also providing information about other medical topics.
+  - [_How to Make Everything_](https://www.youtube.com/makeeverythingtv): Recreating civilization with one technology at a time.
+  - [_IntelligenceSquared_](https://www.youtube.com/@Intelligence-Squared): On this channel the live Intelligence Squared debates are broadcast and cover a wide array of topics.
+  - [_Jackson Crawford_](https://www.youtube.com/@JacksonCrawford): An educational channel about Old Norse, the Eddas, and other long-dead languages and texts.
+  - [_Jet Lag_](https://www.youtube.com/@jetlagthegame): A game show where the contestents have to gain points while travelling and fulfilling missions. A spin-off from Wendover Productions.
+  - [_Jonathan Blow_](https://www.youtube.com/@jblow888): The developer of Braid and The Witness talking mostly about his project of developing a new programming language for his next game.
+  - [_Johnny Harris_](https://www.youtube.com/@johnnyharris): A journalistic channel withe sporatic updates of long-form documentaries that are almost always interseting about a topic you never knew you wanted to know about.
+  - [_KKlein_](https://www.youtube.com/@kklein): An educational channel about the fun of linguistics.
+  - [_Kurzgesagt_](https://www.youtube.com/@kurzgesagt): An educational channel that covers a wide array of grand-theme topics in quite substantial detail and with high production value.
+  - [_Legal Eagle_](https://www.youtube.com/@LegalEagle): An educational channel discussing current legal topics, the supreme count, and other interesting topics.
+  - [_Low Level_](https://www.youtube.com/@LowLevelTV): IT security discussing zero-day exploits, and going into moderate details about them
+  - [_Matt and Tom_](https://www.youtube.com/@mattandtom): A shorter variant of the two-dudes-talking podcast but as a video, more often than not discussing events on Tom Scott's main channel.
+  - [_Mentour Pilot_](https://www.youtube.com/@MentourPilot): An educational channel about aviation done by a commercial pilot. Most well known for its very detailed accident and incident analyses.
+  - [_Mentour Now_](https://www.youtube.com/@MentourNow): A news-y channel about aviation, covering events that are happening on a reoccuring basis. A spin-off from the Mentour Pilot channel.
+  - [_minutephysics_](https://www.youtube.com/@MinutePhysics): A series of short, hand-drawn and animated stick figures that explain a large variety of physical phenomena.
+  - [_miracleofsound_](https://www.youtube.com/@miracleofsound): A music channel by Gavin Dunne where he releases all of his video game-based music soundtracks.
+  - [_Numberphile_](https://www.youtube.com/@numberphile): One of the Brady Haran channels covering mathematical topics of all kind by almost exclusively talking to scientists in the field.
+  - [_Objectivity_](https://www.youtube.com/@ObjectivityVideos): Another Brady Haran channel exploring the archives of the Royal Society and discussing its history and discoveries.
+  - [_PBS Space Time_](https://www.youtube.com/@pbsspacetime): An educational channel that covers mostly grand-scale astrophyiscal topics.
+  - [_Periodic Videos_](https://www.youtube.com/@periodicvideos): Yet another Brady Haran channel that is dealing with chemistry.  Has at least one video on every element on the periodic table.
+  - [_Practical Engineering_](https://www.youtube.com/@PracticalEngineeringChannel): An educational channel going into the details of engineering challenges, often strutural or electrical engineering.
+  - [_Premodernist_](https://www.youtube.com/@premodernist_history): An educational channel discussing historical topics is great detail.
+  - [_Primitive Technology_](https://www.youtube.com/@primitivetechnology9550): Just a dude in Australia that is trying out to recreate technology from scratch.
+  - [_Real Engineering_](https://www.youtube.com/@RealEngineering): An educational channel that explores different engineering focussed topics.
+  - [_Scott Manley_](https://www.youtube.com/@scottmanley): On this channel, Scott mostly plays and explains Kerbal Space Program.  It is the best resource for every new player to learn about the basics of the game.
+  - [_Sixty Symbols_](https://www.youtube.com/@sixtysymbols): Another Brady Haran channel mostly focussed on all kinds of physics-oriented topics.
+  - [_SmarterEveryDay_](https://www.youtube.com/@smartereveryday): An educational channel that covers a large variety of topics, primarily interested in surprising and unexpected experiences.
+  - [_Technology Connections_](https://www.youtube.com/@TechnologyConnections): An educational channel about all things technological, from music, video, computers, pinball machines, and anything else that is in the technological sphere.
+  - [_The 8 Bit Guy_](https://www.youtube.com/@The8BitGuy): A channel primarily focussed on programming an 8088 chip and what interesting programs and games can be made for it today.
+  - [_The Slow Mo Guys_](https://www.youtube.com/@theslowmoguys): A channel centered around slow motion cameras and showing the world at really slow speeds and present what cannot be seen.
+  - [_Tom Scott_](https://www.youtube.com/@TomScottGo): An educational channel that is these days primarily focussed on travelling to interesting locations and explaining the engineering or science performed there.
+  - [_The Great War_](https://www.youtube.com/@TheGreatWar): An educational channel that is covering the First World War by following the events that happen every week 100 years ago.
+  - [_Useful Charts_](https://www.youtube.com/@UsefulCharts): An educational channel covering a wide variety of topics, including language and history, exclusively with the help of charts.
+  - [_VICE_](https://www.youtube.com/@Vice): A news channel that is covering current-ish events in the worlds in varying depth ranging from 2 minute to 2 hour pieces.
+  - [_Vintage Space_](https://www.youtube.com/@AmyShiraTeitel): Amy Shira Teitel's channel that explains the history of early space exploration.
+  - [_Vox_](https://www.youtube.com/@Vox): Another journalistic channel that covers a large varierty of current events.
+  - [_Wendover Productions_](https://www.youtube.com/@Wendoverproductions): An educational channel that has documentary-stye videos about a variety of topics, often transporation or bricks.
 
 ### Previous
 A list of previous channels that I used follow more actively, but fell off for some reason or another. This list is mostly here to remind me to check in every once in a while to see what happened
 
-  - [https://www.youtube.com/@GeographyNow](_Geography Now_): An educational channel where the host explains each country of the world alphabetically in bite-sized 10 minutes videos.
-  - [https://www.youtube.com/@jackfrags](_Jack Frags_):
-  - [https://www.youtube.com/@JacksonGalaxy](_Jackson Galaxy_):
-  - [https://www.youtube.com/@JimSterling](_Jim Sterling_): The channel of the Jimquisition, a weekly show that covers current events in the game industry and their shady practices.
-  - [https://www.youtube.com/channel/UCsBd_jMRHu_GyDTBSs5MO9g](_MasonRL90_): A channel mostly focussed on Rocket League tips and tricks.  Recently also started covering Playerunknown's Battleground.
-  - [https://www.youtube.com/@NerdCubed](_OfficialNerdCubed_): A funny and entertaining gaming channel that covers a large variety of games.  Come for the games and stay for the laughter.
-  - [https://www.youtube.com/@Pestily](_Pestily_): A gaming channel that is predominantly known for playing Escape from Tarkov.
-  - [https://www.youtube.com/@PrestonJacobstheSweetrobin](_Preston Jacobs_): On this channel, Preston analyzes the Song of Ice and Fire book series and also provides and episode analysis of the Game of Thrones TV series.
-  - [https://www.youtube.com/@SciShow](_SciShow_): An educational channel that covers a very large array of topics and explains these in mostly 4-5 minute episodes.
-  - [https://www.youtube.com/@SciShowPsych](_SciShow Psych_): A spin-off of the original SciShow that has focussed topiced on psychological phenomena.
-  - [https://www.youtube.com/@scishowspace](_SciShow Space_): Another spin-off of the original SciShow, this time focussed on astronomical and astrophyiscal topics.
-  - [https://www.youtube.com/@cynicalbrit](_TotalBiscuit_): A gaming channel that was a mix of industry commentary and reviews.  Also hosted the weekly Co-optional podcast.
-  - [https://www.youtube.com/@veritasium](_Veritasium_): Another educational channel that is covering a large variety of topics, but with a point of origin of educational content.
-  - [https://www.youtube.com/@Vsauce](_Vsauce_): An educational channel whose videos move seemingly randomly through a large variety of topics, but always focussing on a fixed topic.
-  - [https://www.youtube.com/@wtfmoses](_wtfmoses_): A gaming channel that exclusively covers Playerunknown's Battlegrounds, both with gaming footage as well as tutorial videos.
+  - [_Geography Now_](https://www.youtube.com/@GeographyNow): An educational channel where the host explains each country of the world alphabetically in bite-sized 10 minutes videos.
+  - [_Jack Frags_](https://www.youtube.com/@jackfrags):
+  - [_Jackson Galaxy_](https://www.youtube.com/@JacksonGalaxy):
+  - [_Jim Sterling_](https://www.youtube.com/@JimSterling): The channel of the Jimquisition, a weekly show that covers current events in the game industry and their shady practices.
+  - [_MasonRL90_](https://www.youtube.com/channel/UCsBd_jMRHu_GyDTBSs5MO9g): A channel mostly focussed on Rocket League tips and tricks.  Recently also started covering Playerunknown's Battleground.
+  - [_OfficialNerdCubed_](https://www.youtube.com/@NerdCubed): A funny and entertaining gaming channel that covers a large variety of games.  Come for the games and stay for the laughter.
+  - [_Pestily_](https://www.youtube.com/@Pestily): A gaming channel that is predominantly known for playing Escape from Tarkov.
+  - [_Preston Jacobs_](https://www.youtube.com/@PrestonJacobstheSweetrobin): On this channel, Preston analyzes the Song of Ice and Fire book series and also provides and episode analysis of the Game of Thrones TV series.
+  - [_SciShow_](https://www.youtube.com/@SciShow): An educational channel that covers a very large array of topics and explains these in mostly 4-5 minute episodes.
+  - [_SciShow Psych_](https://www.youtube.com/@SciShowPsych): A spin-off of the original SciShow that has focussed topiced on psychological phenomena.
+  - [_SciShow Space_](https://www.youtube.com/@scishowspace): Another spin-off of the original SciShow, this time focussed on astronomical and astrophyiscal topics.
+  - [_TotalBiscuit_](https://www.youtube.com/@cynicalbrit): A gaming channel that was a mix of industry commentary and reviews.  Also hosted the weekly Co-optional podcast.
+  - [_Veritasium_](https://www.youtube.com/@veritasium): Another educational channel that is covering a large variety of topics, but with a point of origin of educational content.
+  - [_Vsauce_](https://www.youtube.com/@Vsauce): An educational channel whose videos move seemingly randomly through a large variety of topics, but always focussing on a fixed topic.
+  - [_wtfmoses_](https://www.youtube.com/@wtfmoses): A gaming channel that exclusively covers Playerunknown's Battlegrounds, both with gaming footage as well as tutorial videos.
 
 
 ## Book recommendations
