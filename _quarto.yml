@@ -47,7 +47,6 @@ format:
       - assets/style.scss
     respect-user-color-scheme: true
     css:
-      - assets/styles.css
       - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
     toc: true
 
