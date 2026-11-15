@@ -45,7 +45,7 @@ format:
     theme:
       - darkly
       - assets/style.scss
-    respect-user-color-scheme: true
+    respect-user-color-scheme: false
     css:
       - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
     toc: true
