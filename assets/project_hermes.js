@@ -1,42 +1,30 @@
 $(document).ready(function() {
-  let map = new google.maps.Map(
-    document.getElementById("map_canvas_walking"),
-    {
-      zoom: 12,
-      center: { lat: 40.72, lng: -73.99 }
-    }
-  );
+  let map = L.map("map_canvas_walking").setView([40.72, -73.99], 12);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
 
   $.get(
-    'assets/project_hermes.data',
+    "assets/project_hermes.data",
     null,
     function(data) {
-      let lines = data.split('\n')
-      for (let line = 0; line < lines.length; ++line) {
-        let values = lines[line].split(' ')
-
-        points = []
-        // We have to stop one iteration earlier due to an extra " " at the end of the the line
-        for (let value = 0; value < values.length; value=value+2) {
-          let lat = parseFloat(values[value], 10);
-          let lng = parseFloat(values[value + 1], 10);
-
-          points.push({
-            lat: lat,
-            lng: lng
-          });
+      data.split("\n").forEach(function(line) {
+        let values = line.trim().split(/\s+/).filter(Boolean);
+        let points = [];
+        for (let i = 0; i + 1 < values.length; i += 2) {
+          let lat = parseFloat(values[i]);
+          let lng = parseFloat(values[i + 1]);
+          if (isNaN(lat) || isNaN(lng)) continue;
+          points.push([lat, lng]);
         }
-
-        new google.maps.Polyline({
-          path: points,
-          geodesic: true,
-          strokeColor: "#b5282f",
-          strokeOpacity: 0.95,
-          strokeWeight: 3,
-          map: map
-        });
-      }
+        if (points.length > 1) {
+          L.polyline(points, { color: "#b5282f", weight: 3, opacity: 0.95 }).addTo(map);
+        }
+      });
     },
-    'text'
+    "text"
   );
 });

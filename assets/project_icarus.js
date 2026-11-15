@@ -1,38 +1,36 @@
 $(document).ready(function() {
-  let map = new google.maps.Map(
-    document.getElementById("map_canvas_flying"),
-    {
-      zoom: 2,
-      center: { lat: 40.72, lng: -73.99 }
-    }
-  );
+  let map = L.map("map_canvas_flying");
 
-  // AIzaSyBBn5PBZQvKaBwBE7tFATmq28dsu-tp43o
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
 
-  let locations = {};
-  let airports = [];
+  let allPoints = [];
 
   $.get(
-    'assets/project_icarus.data',
+    "assets/project_icarus.data",
     null,
     function(data) {
-      let lines = data.split('\n')
-
-      for (let line = 0; line < lines.length; ++line) {
-        let values = lines[line].split(' ')
-
-        let src = new google.maps.LatLng(values[0], values[1])
-        let dst = new google.maps.LatLng(values[2], values[3])
-
-        new google.maps.Polyline({
-          path: [src, dst],
-          strokeColor: '#282fb5',
-          strokeWeight: 3,
-          map: map,
-          geodesic: true
-        });
+      data.split("\n").forEach(function(line) {
+        let values = line.trim().split(/\s+/).filter(Boolean);
+        let points = [];
+        for (let i = 0; i + 1 < values.length; i += 2) {
+          let lat = parseFloat(values[i]);
+          let lng = parseFloat(values[i + 1]);
+          if (isNaN(lat) || isNaN(lng)) continue;
+          points.push([lat, lng]);
+        }
+        if (points.length > 1) {
+          L.polyline(points, { color: "#282fb5", weight: 3 }).addTo(map);
+          allPoints = allPoints.concat(points);
+        }
+      });
+      if (allPoints.length > 0) {
+        map.fitBounds(allPoints, { padding: [20, 20] });
       }
     },
-    'text'
+    "text"
   );
 });

@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+header-includes:
+  - '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />'
 ---
 
 This page contains a list of different side projects (mostly programming related) that might be, in some form or another, interesting.  Most of them are archived on my [GitHub](https://github.com/AlexanderBock) page.
@@ -78,8 +80,6 @@ Objective-C
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/jquery.dropotron.min.js"></script>
 
-<script
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBn5PBZQvKaBwBE7tFATmq28dsu-tp43o">
-</script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="assets/project_hermes.js" type="text/javascript" charset="utf-8"></script>
 <script src="assets/project_icarus.js" type="text/javascript" charset="utf-8"></script>
