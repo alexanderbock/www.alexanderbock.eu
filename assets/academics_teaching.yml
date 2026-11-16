@@ -59,13 +59,6 @@
   years:
     - 2017
     - 2018
-- class: DS-GA 1009
-  role: Lecturer
-  description: Practical Data Visualization Internship
-  university: New York University
-  years:
-    - 2017
-    - 2018
 - class: TNG033
   role: Lab assistant
   description: Programming in C++

@@ -7,6 +7,9 @@ project:
 
 website:
   title: "Alex Bock"
+  description: "Alex Bock is an Assistant Professor for Immersive Visualization at Linköping University and a Visiting Researcher at the American Museum of Natural History. He is the Development Lead for the open-source OpenSpace project."
+  favicon: images/openspace-icon.webp
+  site-url: https://www.alexanderbock.eu
   navbar:
     title: false
     pinned: true
@@ -49,6 +52,8 @@ format:
     css:
       - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
     toc: true
+    include-in-header:
+      - assets/head-meta.html
 
 
 
