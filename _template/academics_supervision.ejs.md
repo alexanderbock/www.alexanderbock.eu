@@ -5,14 +5,14 @@
       <div style="float: right; text-align: right; margin-left: 10px">
         <span>
           <% if (supervision.year) { %>
-            <a href="https://www.wikiwand.com/en/<%- supervision.year %>" class="tabular-year"><%- supervision.year %></a>
+            <a href="https://en.wikipedia.org/wiki/<%- supervision.year %>" class="tabular-year"><%- supervision.year %></a>
           <% } else { %>
             <div class="tabular-year">&nbsp;</div>
           <% } %>
         </span>
         <div>
           <% if (supervision.thesis) { %>
-            <a href="<%- supervision.thesis %>">
+            <a href="<%- supervision.thesis %>" aria-label="Thesis">
               <span class="fa fa-file-pdf-o tabular-icon" title="thesis: <%- supervision.thesis %>"></span>
             </a>
           <% } else { %>

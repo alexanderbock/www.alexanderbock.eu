@@ -3,14 +3,12 @@
 <% for (const item of items) { %>
   <div class="tabular">
     <div style="float: right; text-align: right; margin-left: 10px">
-      <span>
-        <a href="https://www.wikiwand.com/en/<%- item.year %>" class="tabular-year">
-          <%- item.year %>
-        </a>
-      </span>
+      <a href="https://en.wikipedia.org/wiki/<%- item.year %>" class="tabular-year">
+        <%- item.year %>
+      </a>
       <div>
         <% if (item.video) { %>
-          <a href="<%- item.video %>">
+          <a href="<%- item.video %>" aria-label="Video">
             <span class="fa fa-video-camera tabular-icon" title="video: <%- item.video %>"></span>
           </a>
         <% } else { %>
