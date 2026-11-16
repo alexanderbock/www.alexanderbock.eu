@@ -1,6 +1,4 @@
 /*-- scss:defaults --*/
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
 $navbar-bg: #373a5f;
 $navbar-fg: #bbbbbb;
 $navbar-hl: white;
@@ -28,12 +26,12 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 }
 
 .tabular-second-line {
-  font-size: 130%;
+  font-size: 150%;
   font-style: italic;
 }
 
 .tabular-third-line {
-  font-size: 110%;
+  font-size: 120%;
 }
 
 .tabular {
@@ -64,26 +62,11 @@ $font-family-sans-serif: 'Roboto', sans-serif;
   color: #dddddd;
 }
 
-.tabular-icon {
-  font-size: 175%;
-  padding-left: 2px;
-  padding-right: 2px;
-  color: #dddddd;
-}
-
 .tabular-first-line {
   font-size: 175%;
   text-decoration: none;
   color: #dddddd;
   font-variant: small-caps;
-}
-
-.tabular-second-line {
-  font-size: 150%;
-}
-
-.tabular-third-line {
-  font-size: 120%;
 }
 
 .tabular-type {

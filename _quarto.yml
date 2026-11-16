@@ -3,6 +3,9 @@ project:
   resources:
     - assets/project_hermes.data
     - assets/project_icarus.data
+    - assets/fonts/*
+    - assets/leaflet/*
+    - assets/leaflet/images/*
     - papers/*
 
 website:

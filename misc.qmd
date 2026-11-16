@@ -8,28 +8,28 @@ This page contains a list of other interesting aspects that I want to share in o
 ## Gaming
 ### RimWorld
 ::: {.img-float}
-![](images/rimworld.webp){style="float: right; margin: 5px; width: 250px"}
+![](images/rimworld.webp){style="float: right; margin: 5px; width: 250px; aspect-ratio: 92/43" loading="lazy" decoding="async"}
 :::
 
 Building colonies and managing small pawns that constantly want to kill themselves while trying not to commit war-crimes. At the time of writing, this is my most played game on Steam and it is a fantastic game to play while watching some YouTube videos that only require half-attention.
 
 ### Rocket League
 ::: {.img-float}
-![](images/rocket-league.webp){style="float: right; margin: 5px; width: 250px"}
+![](images/rocket-league.webp){style="float: right; margin: 5px; width: 250px; aspect-ratio: 1/1" loading="lazy" decoding="async"}
 :::
 
-Rocket League has been my Esport of choice both for watching and playing for many years..  I started playing it basically when I arrived on Steam and have been quite [decent](https://rocketleague.tracker.network/profile/steam/76561198025172966) at it as well.  For a variety of reasons I stopped playing a few years ago, but it is still a great amount of fun!  For people who don't know the game, it is exactly what you imagine if you combine Football and Cars.  A predecessor made by the same team probably had a more descriptive name: Supersonic Acrobatic Rocket-Powered Battle-Cars.
+Rocket League has been my Esport of choice both for watching and playing for many years.  I started playing it basically when I arrived on Steam and have been quite [decent](https://rocketleague.tracker.network/profile/steam/76561198025172966) at it as well.  For a variety of reasons I stopped playing a few years ago, but it is still a great amount of fun!  For people who don't know the game, it is exactly what you imagine if you combine Football and Cars.  A predecessor made by the same team probably had a more descriptive name: Supersonic Acrobatic Rocket-Powered Battle-Cars.
 
 ### Factorio
 ::: {.img-float}
-![](images/factorio.webp){style="float: right; margin: 5px; width: 250px"}
+![](images/factorio.webp){style="float: right; margin: 5px; width: 250px; aspect-ratio: 92/43" loading="lazy" decoding="async"}
 :::
 
 This is a real-time automation game where you have to constantly expand your factory to construct more and more elaborate production chains, all while defending everything from the ever-present bugs on the planet. It's the perfect "Just 5 more minutes" game.
 
 ### Kerbal Space Program
 ::: {.img-float}
-![](images/kerbal-space-program.webp){style="float: right; margin: 5px; width: 250px"}
+![](images/kerbal-space-program.webp){style="float: right; margin: 5px; width: 250px; aspect-ratio: 649/252" loading="lazy" decoding="async"}
 :::
 
 At the time of writing, my second most favorite game on Steam.  It is basically "Orbital Mechanics, The Game" with a bit of "Babies first Tsiolkovsky Rocket Equation" thrown in for good measure.  As per usual [Randall Munroe](https://xkcd.com/1356) probably described it the best.  If you ask me, going RP-0 with Real Scale Solar system is the only way to live (and get very, **very** frustrated). Unfortunately, the second version of the game was not great and everything around it seems to be dead now.
@@ -37,10 +37,10 @@ At the time of writing, my second most favorite game on Steam.  It is basically 
 
 ## Productivity
 ::: {.img-float}
-![](images/gtd.webp){style="float: right; margin: 5px; width: 250px"}
+![](images/gtd.webp){style="float: right; margin: 5px; width: 250px; aspect-ratio: 326/499" loading="lazy" decoding="async"}
 :::
 
-Although the book as aged quite badly, I can still recommend David Allen's [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) book for everyone.  Combining the ideas of this book with a modern TODO list app (I have been using [Todoist](https://en.todoist.com) for a while now after switching away from [Omnifocus](https://www.omnigroup.com/omnifocus)) really helps reducing stress levels in addition to increasing productivity.  In addition to that, throw in a bit of [Pomodoro](http://www.marinaratimer.com) magic and keep those new tasks coming.
+Although the book has aged quite badly, I can still recommend David Allen's [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) book for everyone.  Combining the ideas of this book with a modern TODO list app (I have been using [Todoist](https://en.todoist.com) for a while now after switching away from [Omnifocus](https://www.omnigroup.com/omnifocus)) really helps reducing stress levels in addition to increasing productivity.  In addition to that, throw in a bit of [Pomodoro](http://www.marinaratimer.com) magic and keep those new tasks coming.
 
 
 ## Cool Tools
@@ -72,7 +72,7 @@ Listening to podcasts has been another staple of entertainment in my life for wa
   - [_50 Things That Made the Modern Economy_](https://www.bbc.co.uk/programmes/p04b1g3c): A BBC podcast where the title gives everything away.  They cover the 50 biggest inventions that shaped the world around us into what it is today.
   - [_99 Percent Invisible_](https://99percentinvisible.org): Roman Mars explaining the design aspects of things that are around us daily but to which we normally don't pay any attention.
   - _Captains Speaking_: Two professional 737 pilots discuss all things aviation. A great source of insider gossip and learning things you never knew you wanted to know.
-  - [_CppCast_](https://cppcast.com/): A for C++ developers.  Discussion topics range from new and interesting libraries over language features all the way to C++ standard discussions.
+  - [_CppCast_](https://cppcast.com/): A podcast for C++ developers.  Discussion topics range from new and interesting libraries over language features all the way to C++ standard discussions.
   - [_Freakonomics Radio_](https://freakonomics.com/): One of the two economics-focussed podcasts on my list.  It can be quite enlightening to listen how other people reason about the world and learn interesting facts in the process.
   - [_No Dumb Questions_](https://www.nodumbquestions.fm): One more entry from the two-dudes-talking genre of podcasts.  Destin Sandlin (Smarter Every Day) and Matt Whitman (10 Minute Bible Hour) discussing arbitrary topics.
   - [_Planet Money_](https://www.npr.org/sections/money): Similar to Freakonomics Radio, an economics-focussed podcast about explaining everyday events and items through the looking glass of economics.
@@ -93,7 +93,7 @@ These are some of the Youtube channels that I'm following.  Judging by my growin
 
   - [_3Blue1Brown_](https://www.youtube.com/@3blue1brown): An educational channel about a lot of mathematical topics that are beautifully animated.
   - [_74 Gear_](https://www.youtube.com/@74gear): A channel about piloting-related topics from the point of view of a professional 747 pilot.
-  - [_Ahoy_](https://www.youtube.com/@XboxAhoy): Deep dive videos into individual video games with an extended length and a sporatic upload schedule.
+  - [_Ahoy_](https://www.youtube.com/@XboxAhoy): Deep dive videos into individual video games with an extended length and a sporadic upload schedule.
   - [_AlecSteele_](https://www.youtube.com/@AlecSteele): A channel about blacksmithing and smithing-related experiments.
   - [_AllThingsSecured_](https://www.youtube.com/@AllThingsSecured): A channel discussing the in's and out's of everyday IT security related questions.
   - [_BenEater_](https://www.youtube.com/@BenEater): A channel going into great detail about close-to-the-metal hardware programming, including building a computer on a breadboard.
@@ -112,10 +112,10 @@ These are some of the Youtube channels that I'm following.  Judging by my growin
   - [_Jackson Crawford_](https://www.youtube.com/@JacksonCrawford): An educational channel about Old Norse, the Eddas, and other long-dead languages and texts.
   - [_Jet Lag_](https://www.youtube.com/@jetlagthegame): A game show where the contestants have to gain points while travelling and fulfilling missions. A spin-off from Wendover Productions.
   - [_Jonathan Blow_](https://www.youtube.com/@jblow888): The developer of Braid and The Witness talking mostly about his project of developing a new programming language for his next game.
-  - [_Johnny Harris_](https://www.youtube.com/@johnnyharris): A journalistic channel with sporatic updates of long-form documentaries that are almost always interseting about a topic you never knew you wanted to know about.
+  - [_Johnny Harris_](https://www.youtube.com/@johnnyharris): A journalistic channel with sporadic updates of long-form documentaries that are almost always interesting about a topic you never knew you wanted to know about.
   - [_KKlein_](https://www.youtube.com/@kklein): An educational channel about the fun of linguistics.
   - [_Kurzgesagt_](https://www.youtube.com/@kurzgesagt): An educational channel that covers a wide array of grand-theme topics in quite substantial detail and with high production value.
-  - [_Legal Eagle_](https://www.youtube.com/@LegalEagle): An educational channel discussing current legal topics, the supreme count, and other interesting topics.
+  - [_Legal Eagle_](https://www.youtube.com/@LegalEagle): An educational channel discussing current legal topics, the Supreme Court, and other interesting topics.
   - [_Low Level_](https://www.youtube.com/@LowLevelTV): IT security discussing zero-day exploits, and going into moderate details about them
   - [_Matt and Tom_](https://www.youtube.com/@mattandtom): A shorter variant of the two-dudes-talking podcast but as a video, more often than not discussing events on Tom Scott's main channel.
   - [_Mentour Pilot_](https://www.youtube.com/@MentourPilot): An educational channel about aviation done by a commercial pilot. Most well known for its very detailed accident and incident analyses.
@@ -148,8 +148,8 @@ These are some of the Youtube channels that I'm following.  Judging by my growin
 A list of previous channels that I used follow more actively, but fell off for some reason or another. This list is mostly here to remind me to check in every once in a while to see what happened
 
   - [_Geography Now_](https://www.youtube.com/@GeographyNow): An educational channel where the host explains each country of the world alphabetically in bite-sized 10 minutes videos.
-  - [_Jack Frags_](https://www.youtube.com/@jackfrags):
-  - [_Jackson Galaxy_](https://www.youtube.com/@JacksonGalaxy):
+  - [_Jack Frags_](https://www.youtube.com/@jackfrags): A Rocket League professional and content creator.
+  - [_Jackson Galaxy_](https://www.youtube.com/@JacksonGalaxy): A cat behaviorist known for "My Cat from Hell".
   - [_Jim Sterling_](https://www.youtube.com/@JimSterling): The channel of the Jimquisition, a weekly show that covers current events in the game industry and their shady practices.
   - [_MasonRL90_](https://www.youtube.com/channel/UCsBd_jMRHu_GyDTBSs5MO9g): A channel mostly focussed on Rocket League tips and tricks.  Recently also started covering Playerunknown's Battleground.
   - [_OfficialNerdCubed_](https://www.youtube.com/@NerdCubed): A funny and entertaining gaming channel that covers a large variety of games.  Come for the games and stay for the laughter.
@@ -168,13 +168,13 @@ A list of previous channels that I used follow more actively, but fell off for s
   - _Superintelligence_: A book by Nick Bostrom about the dangers of developing artificial intelligence and how it might endanger our future.  This book changed my views on AI by 180°
   - _Song of Ice and Fire_: It's the original book series for Game of Thrones.  After the disappointing sixth and seventh season, it's refreshing to go back to the original
   - _The Dictator's Handbook_: A great book about understanding politics and scheming in organizations.  The books subtitle "Why Bad Behavior Is Almost Always Good Politics" probably says it all.
-  - _The Martian_: A book by Andy Weir which has since been made into a successful move.  Mark Watney is stranded on Mars after an accident and has to survive the harsh conditions on Mars.
+  - _The Martian_: A book by Andy Weir which has since been made into a successful movie.  Mark Watney is stranded on Mars after an accident and has to survive the harsh conditions on Mars.
   - _The Expanse Series_: A book series by Daniel Abraham and Ty Franck about a realistic and gritty future where space travel through the solar system is possible.  Made into a TV series, too.
   - _Failure is Not an Option_: A memoir by Gene Kratz, the flight director responsible for the Mercury, Gemini, and Apollo era spacecraft at NASA.
   - _Star Wars: Darth Plagueis_: A book about Darth Plagueis, the master of Darth Sidious and how he got to power.
-  - _Mogworld_: Written by Ben, Yahzee, Crowshaw, it is a book about what would happen if an NPC in an MMORPG would become sentient.
-  - _Cockpit Confidential_: Adopted from excepts of his blog, Patrick Smith, a pilot, explains common questions that people would have if they sat down with a pilot for a beer or two.
+  - _Mogworld_: Written by Ben Crowshaw, it is a book about what would happen if an NPC in an MMORPG would become sentient.
+  - _Cockpit Confidential_: Adopted from excerpts of his blog, Patrick Smith, a pilot, explains common questions that people would have if they sat down with a pilot for a beer or two.
   - _A Man on The Moon_: The book about the moon shot by Andrew Chaikin in which he describes the flights of the Apollo program.  He sat down with all (at the time) living astronauts to get their stories.
   - _Ready Player One_: A book about a dystopian future in which everyone lives in "The Oasis", a fully immersive virtual reality environment and is looking for the ultimate golden ticket.
-  - _Elon Musk_: A biography about Elon Musk, covering his entire life until 2016, when this book was written.
+  - _Elon Musk_: A biography about Elon Musk, covering his life and the companies he has built.
   - _Steve Jobs_: A biography about Steve Jobs, written by Walter Isaacson, and is probably the most complete retelling of his life.

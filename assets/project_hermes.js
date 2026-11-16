@@ -10,7 +10,10 @@ document.addEventListener("DOMContentLoaded", function () {
   }).addTo(map);
 
   fetch("assets/project_hermes.data")
-    .then(function (r) { return r.text(); })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.text();
+    })
     .then(function (data) {
       data.split("\n").forEach(function (line) {
         let values = line.trim().split(/\s+/).filter(Boolean);
@@ -25,5 +28,16 @@ document.addEventListener("DOMContentLoaded", function () {
           L.polyline(points, { color: "#b5282f", weight: 3, opacity: 0.95 }).addTo(map);
         }
       });
+    })
+    .catch(function (err) {
+      console.error("Walking Manhattan: could not load data", err);
+      var el = document.getElementById("map_canvas_walking");
+      if (el) {
+        el.style.position = "relative";
+        var msg = document.createElement("div");
+        msg.style.cssText = "position:absolute;top:0;left:0;right:0;bottom:0;z-index:1000;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.7);color:#ddd;font-size:14px;text-align:center;padding:12px;";
+        msg.textContent = "Could not load map data.";
+        el.appendChild(msg);
+      }
     });
 });

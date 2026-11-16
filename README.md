@@ -1,3 +1,3 @@
-# alexanderbock.github.com
+# www.alexanderbock.eu
 
 `quarto publish gh-pages`

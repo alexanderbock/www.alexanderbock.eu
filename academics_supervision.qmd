@@ -27,3 +27,5 @@ listing:
 
 ::: {#supervision-completed}
 :::
+
+\* Co-Supervisor (equal co-supervision).
