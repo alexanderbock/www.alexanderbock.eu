@@ -32,7 +32,7 @@ Throughout the development of OpenSpace, the Community Coordinated Modeling Cent
 :::
 
 ## Rosetta
-After the image projections that were performed with the camera of the New Horizons space craft, we focussed ourselves towards visualizing ESA's Rosetta mission around the comet 67P/Churyumov–Gerasimenko.
+After the image projections that were performed with the camera of the New Horizons spacecraft, we focussed ourselves towards visualizing ESA's Rosetta mission around the comet 67P/Churyumov–Gerasimenko.
 
 ::: {.container}
 ![](images/openspace-2016-rosetta-1.webp){width=33%}
@@ -41,7 +41,7 @@ After the image projections that were performed with the camera of the New Horiz
 :::
 
 ## Milky Way
-These are some of the initial renderings of the Digital Universe stars combined with the Milkyway background texture that was used for the Dark Universe production.
+These are some of the initial renderings of the Digital Universe stars combined with the Milky Way background texture that was used for the Dark Universe production.
 
 ::: {.container}
 ![](images/openspace-milkyway-1.webp){width=33%}
@@ -50,7 +50,7 @@ These are some of the initial renderings of the Digital Universe stars combined 
 :::
 
 ## Pluto Flyby 2015
-On July 14th, 2015 the New Horizons space craft finally made its closest approach at Pluto and Charon and acquired lots of images and scientific measurements from the system.  During the approach, we organized a worldwide event with around 1000 people watching the events unfold live from within OpenSpace.  The event was also live-streamed to [YouTube](https://www.youtube.com/watch?v=oEFz5JxLd8w).
+On July 14th, 2015 the New Horizons spacecraft finally made its closest approach at Pluto and Charon and acquired lots of images and scientific measurements from the system.  During the approach, we organized a worldwide event with around 1000 people watching the events unfold live from within OpenSpace.  The event was also live-streamed to [YouTube](https://www.youtube.com/watch?v=oEFz5JxLd8w).
 
 ::: {.container}
 ![](images/openspace-2015-pluto-1.webp){width=33%}

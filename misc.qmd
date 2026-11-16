@@ -45,14 +45,14 @@ Although the book as aged quite badly, I can still recommend David Allen's [Gett
 
 ## Cool Tools
 This is a list of various tools that I use more-or-less regularly that help with organization, productivity, and other tasks. None of them will be interesting for everyone, but a few might be useful for some.
-  - [_Obsidian_](https://obsidian.md/): A (mostly) Markdown file based knowledge database and notes-taking application. While it is possible to synchronize files using their paid service, the software is agnostic to the location of the files and supports Drobox, Google Drive, etc. Basically Notion, but local.
+  - [_Obsidian_](https://obsidian.md/): A (mostly) Markdown file based knowledge database and notes-taking application. While it is possible to synchronize files using their paid service, the software is agnostic to the location of the files and supports Dropbox, Google Drive, etc. Basically Notion, but local.
   - [_Quarto_](https://quarto.org/): A publishing system that converts Markdown and Python code into documents, presentations, or websites (such as this one).
-  - [_VS Code_](https://code.visualstudio.com/): Probably the best code editor that is currently around, following in the footsteps of Notepad++ and Sublime Tetx
+  - [_VS Code_](https://code.visualstudio.com/): Probably the best code editor that is currently around, following in the footsteps of Notepad++ and Sublime Text
 
   - [_Autohotkey_](https://www.autohotkey.com): A powerful scripting language that execute complex actions through keyboard shortcuts. Almost anything that is doable in Windows can be automated through AHK.
   - [_ImageMagick_](https://imagemagick.org/): Image conversion tool that supports almost any image format. Also has tools to edit the images in a procedural manner and is thus very batch-friendly.
   - [_Microsoft PowerToys_](https://github.com/microsoft/PowerToys): Many features for more advanced users of Windows, such as a better clipboard handling, window management, etc. Would recommend that for anyone using Windows as a working environment.
-  - [_Milton_](https://miltonpaint.com): An open-source vector drawing problem that is great for quick drawings when trying to explain complex concepts.
+  - [_Milton_](https://miltonpaint.com): An open-source vector drawing program that is great for quick drawings when trying to explain complex concepts.
   - [_Pandoc_](https://www.github.com/jgm/pandoc): A document conversion tool that supports many file types, being able to generate Word documents from Markdown, PDFs from text files, etc etc.
   - [_Parsec_](https://parsec.app): A fantastic remote control application with ultra-low latency and multi-monitor support. More than once I didn't actually realize that I was watching a video on the remote computer, it's that great.
   - [_RenderDoc_](https://renderdoc.org/): Anyone who does any OpenGL development needs this frame analyze that allows you to dissect any OpenGL frame and look at the rendering pipeline, textures, etc.
@@ -84,7 +84,7 @@ Listening to podcasts has been another staple of entertainment in my life for wa
 ### Previous
   - [_Cortex_](https://www.relay.fm/cortex): CGP Grey and Myke Hurley's two-dudes-talking podcast about productivity and their careers.  Very useful to listen to other people talking about their self-employment careers.
   - [_Podquisition_](https://www.thejimquisition.com/podquisition): Jim Sterling's (The Jimquisition), Laura K Dale's, and Gavin Dunne's (Miracle of Sound) podcast that is, mostly, about video games and to keep up to date on video game news.
-  - [_Hello Internet_](https://www.hellointernet.fm): Brady Haran and CGP Grey's two-dudes-talking podcast.  This is also about any arbitrary topic, but since both hosts are involved in making Youtube videos, that's one reoccuring topic.
+  - [_Hello Internet_](https://www.hellointernet.fm): Brady Haran and CGP Grey's two-dudes-talking podcast.  This is also about any arbitrary topic, but since both hosts are involved in making Youtube videos, that's one reoccurring topic.
 
 
 
@@ -103,31 +103,31 @@ These are some of the Youtube channels that I'm following.  Judging by my growin
   - [_CrashCourse_](https://www.youtube.com/@crashcourse): An educational channel with many sub-channels that cover everything from world history, sociology, to chemistry.
   - [_Deviant Ollam_](https://www.youtube.com/@DeviantOllam): A variety of topics from self-defense, IT security, and travelling.
   - [_Doctor Mike_](https://www.youtube.com/@DoctorMike): A channel discussing medical research, their findings, and applicability to everyday life.
-  - [_ElectroBOOM_](https://www.youtube.com/@ElectroBOOM): An electronis channel, usually with some minor explosions being involved, while teaching about circuitry.
-  - [_Everyday Astronaut_](https://www.youtube.com/@EverydayAstronaut): An eduational channel probably most known for its in-depth series on all kinds of rocket engines.
+  - [_ElectroBOOM_](https://www.youtube.com/@ElectroBOOM): An electronic channel, usually with some minor explosions being involved, while teaching about circuitry.
+  - [_Everyday Astronaut_](https://www.youtube.com/@EverydayAstronaut): An educational channel probably most known for its in-depth series on all kinds of rocket engines.
   - [_Half As Interesting_](https://www.youtube.com/@halfasinteresting): An educational channel with short-form videos discussing more obscure topics that you never knew you wanted to know about. A spin-off from Wendover Productions.
   - [_Healthcare Triage_](https://www.youtube.com/@healthcaretriage): An educational channel about the news, grand ideas of healthcare, and also providing information about other medical topics.
   - [_How to Make Everything_](https://www.youtube.com/makeeverythingtv): Recreating civilization with one technology at a time.
   - [_IntelligenceSquared_](https://www.youtube.com/@Intelligence-Squared): On this channel the live Intelligence Squared debates are broadcast and cover a wide array of topics.
   - [_Jackson Crawford_](https://www.youtube.com/@JacksonCrawford): An educational channel about Old Norse, the Eddas, and other long-dead languages and texts.
-  - [_Jet Lag_](https://www.youtube.com/@jetlagthegame): A game show where the contestents have to gain points while travelling and fulfilling missions. A spin-off from Wendover Productions.
+  - [_Jet Lag_](https://www.youtube.com/@jetlagthegame): A game show where the contestants have to gain points while travelling and fulfilling missions. A spin-off from Wendover Productions.
   - [_Jonathan Blow_](https://www.youtube.com/@jblow888): The developer of Braid and The Witness talking mostly about his project of developing a new programming language for his next game.
-  - [_Johnny Harris_](https://www.youtube.com/@johnnyharris): A journalistic channel withe sporatic updates of long-form documentaries that are almost always interseting about a topic you never knew you wanted to know about.
+  - [_Johnny Harris_](https://www.youtube.com/@johnnyharris): A journalistic channel with sporatic updates of long-form documentaries that are almost always interseting about a topic you never knew you wanted to know about.
   - [_KKlein_](https://www.youtube.com/@kklein): An educational channel about the fun of linguistics.
   - [_Kurzgesagt_](https://www.youtube.com/@kurzgesagt): An educational channel that covers a wide array of grand-theme topics in quite substantial detail and with high production value.
   - [_Legal Eagle_](https://www.youtube.com/@LegalEagle): An educational channel discussing current legal topics, the supreme count, and other interesting topics.
   - [_Low Level_](https://www.youtube.com/@LowLevelTV): IT security discussing zero-day exploits, and going into moderate details about them
   - [_Matt and Tom_](https://www.youtube.com/@mattandtom): A shorter variant of the two-dudes-talking podcast but as a video, more often than not discussing events on Tom Scott's main channel.
   - [_Mentour Pilot_](https://www.youtube.com/@MentourPilot): An educational channel about aviation done by a commercial pilot. Most well known for its very detailed accident and incident analyses.
-  - [_Mentour Now_](https://www.youtube.com/@MentourNow): A news-y channel about aviation, covering events that are happening on a reoccuring basis. A spin-off from the Mentour Pilot channel.
+  - [_Mentour Now_](https://www.youtube.com/@MentourNow): A news-y channel about aviation, covering events that are happening on a reoccurring basis. A spin-off from the Mentour Pilot channel.
   - [_minutephysics_](https://www.youtube.com/@MinutePhysics): A series of short, hand-drawn and animated stick figures that explain a large variety of physical phenomena.
   - [_miracleofsound_](https://www.youtube.com/@miracleofsound): A music channel by Gavin Dunne where he releases all of his video game-based music soundtracks.
   - [_Numberphile_](https://www.youtube.com/@numberphile): One of the Brady Haran channels covering mathematical topics of all kind by almost exclusively talking to scientists in the field.
   - [_Objectivity_](https://www.youtube.com/@ObjectivityVideos): Another Brady Haran channel exploring the archives of the Royal Society and discussing its history and discoveries.
-  - [_PBS Space Time_](https://www.youtube.com/@pbsspacetime): An educational channel that covers mostly grand-scale astrophyiscal topics.
+  - [_PBS Space Time_](https://www.youtube.com/@pbsspacetime): An educational channel that covers mostly grand-scale astrophysical topics.
   - [_Periodic Videos_](https://www.youtube.com/@periodicvideos): Yet another Brady Haran channel that is dealing with chemistry.  Has at least one video on every element on the periodic table.
-  - [_Practical Engineering_](https://www.youtube.com/@PracticalEngineeringChannel): An educational channel going into the details of engineering challenges, often strutural or electrical engineering.
-  - [_Premodernist_](https://www.youtube.com/@premodernist_history): An educational channel discussing historical topics is great detail.
+  - [_Practical Engineering_](https://www.youtube.com/@PracticalEngineeringChannel): An educational channel going into the details of engineering challenges, often structural or electrical engineering.
+  - [_Premodernist_](https://www.youtube.com/@premodernist_history): An educational channel discussing historical topics in great detail.
   - [_Primitive Technology_](https://www.youtube.com/@primitivetechnology9550): Just a dude in Australia that is trying out to recreate technology from scratch.
   - [_Real Engineering_](https://www.youtube.com/@RealEngineering): An educational channel that explores different engineering focussed topics.
   - [_Scott Manley_](https://www.youtube.com/@scottmanley): On this channel, Scott mostly plays and explains Kerbal Space Program.  It is the best resource for every new player to learn about the basics of the game.
@@ -141,8 +141,8 @@ These are some of the Youtube channels that I'm following.  Judging by my growin
   - [_Useful Charts_](https://www.youtube.com/@UsefulCharts): An educational channel covering a wide variety of topics, including language and history, exclusively with the help of charts.
   - [_VICE_](https://www.youtube.com/@Vice): A news channel that is covering current-ish events in the worlds in varying depth ranging from 2 minute to 2 hour pieces.
   - [_Vintage Space_](https://www.youtube.com/@AmyShiraTeitel): Amy Shira Teitel's channel that explains the history of early space exploration.
-  - [_Vox_](https://www.youtube.com/@Vox): Another journalistic channel that covers a large varierty of current events.
-  - [_Wendover Productions_](https://www.youtube.com/@Wendoverproductions): An educational channel that has documentary-stye videos about a variety of topics, often transporation or bricks.
+  - [_Vox_](https://www.youtube.com/@Vox): Another journalistic channel that covers a large variety of current events.
+  - [_Wendover Productions_](https://www.youtube.com/@Wendoverproductions): An educational channel that has documentary-style videos about a variety of topics, often transportation or bricks.
 
 ### Previous
 A list of previous channels that I used follow more actively, but fell off for some reason or another. This list is mostly here to remind me to check in every once in a while to see what happened
@@ -157,7 +157,7 @@ A list of previous channels that I used follow more actively, but fell off for s
   - [_Preston Jacobs_](https://www.youtube.com/@PrestonJacobstheSweetrobin): On this channel, Preston analyzes the Song of Ice and Fire book series and also provides and episode analysis of the Game of Thrones TV series.
   - [_SciShow_](https://www.youtube.com/@SciShow): An educational channel that covers a very large array of topics and explains these in mostly 4-5 minute episodes.
   - [_SciShow Psych_](https://www.youtube.com/@SciShowPsych): A spin-off of the original SciShow that has focussed topiced on psychological phenomena.
-  - [_SciShow Space_](https://www.youtube.com/@scishowspace): Another spin-off of the original SciShow, this time focussed on astronomical and astrophyiscal topics.
+  - [_SciShow Space_](https://www.youtube.com/@scishowspace): Another spin-off of the original SciShow, this time focussed on astronomical and astrophysical topics.
   - [_TotalBiscuit_](https://www.youtube.com/@cynicalbrit): A gaming channel that was a mix of industry commentary and reviews.  Also hosted the weekly Co-optional podcast.
   - [_Veritasium_](https://www.youtube.com/@veritasium): Another educational channel that is covering a large variety of topics, but with a point of origin of educational content.
   - [_Vsauce_](https://www.youtube.com/@Vsauce): An educational channel whose videos move seemingly randomly through a large variety of topics, but always focussing on a fixed topic.
@@ -170,7 +170,7 @@ A list of previous channels that I used follow more actively, but fell off for s
   - _The Dictator's Handbook_: A great book about understanding politics and scheming in organizations.  The books subtitle "Why Bad Behavior Is Almost Always Good Politics" probably says it all.
   - _The Martian_: A book by Andy Weir which has since been made into a successful move.  Mark Watney is stranded on Mars after an accident and has to survive the harsh conditions on Mars.
   - _The Expanse Series_: A book series by Daniel Abraham and Ty Franck about a realistic and gritty future where space travel through the solar system is possible.  Made into a TV series, too.
-  - _Failure is Not an Option_: A memoir by Gene Kratz, the flight director responsible for the Mercury, Gemini, and Apollo era space craft at NASA.
+  - _Failure is Not an Option_: A memoir by Gene Kratz, the flight director responsible for the Mercury, Gemini, and Apollo era spacecraft at NASA.
   - _Star Wars: Darth Plagueis_: A book about Darth Plagueis, the master of Darth Sidious and how he got to power.
   - _Mogworld_: Written by Ben, Yahzee, Crowshaw, it is a book about what would happen if an NPC in an MMORPG would become sentient.
   - _Cockpit Confidential_: Adopted from excepts of his blog, Patrick Smith, a pilot, explains common questions that people would have if they sat down with a pilot for a beer or two.
